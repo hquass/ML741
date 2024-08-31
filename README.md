@@ -1,2 +1,2 @@
-# ML741
-This repo contains my code for ML741 assignments
+# ML741 Assignment 1
+This repo contains my code for ML741 assignment 1
